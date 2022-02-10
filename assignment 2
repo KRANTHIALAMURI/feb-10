@@ -1,0 +1,15 @@
+n=int(input("Enter a number:"))
+
+if n<0 :
+
+      print("Given Number is NEGATIVE")
+
+else:
+
+          print("Given Number is POSITIVE")
+
+Output :-
+
+Enter a number:5
+
+Given Number is POSITIVE
